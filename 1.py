@@ -1,3 +1,2 @@
-print ("I am a beginner with Git")
-print ("Hello from test branch")
-
+a = ("I am a beginner with Git and I'm still learning")
+print (a) 
